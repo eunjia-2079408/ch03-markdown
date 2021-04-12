@@ -9,4 +9,9 @@ and provide a link to a website that provides additional information
 about the quote. When you push your changes back up to GitHub, you
 will see the rendered markdown file.
 
+> Favorite quote:
+“Life will only change when you become more committed to your dreams than you are to your comfort zone.”
+
+[Billy Cox]: https://thegoalchaser.com/quotes-about-changing-yourself/
+
 See `complete` branch for an example.
