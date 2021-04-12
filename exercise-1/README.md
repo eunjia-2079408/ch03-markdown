@@ -12,6 +12,6 @@ will see the rendered markdown file.
 > Favorite quote:
 “Life will only change when you become more committed to your dreams than you are to your comfort zone.”
 
-[Billy Cox] (https://thegoalchaser.com/quotes-about-changing-yourself/)
+[Billy Cox](https://thegoalchaser.com/quotes-about-changing-yourself/)
 
 See `complete` branch for an example.
